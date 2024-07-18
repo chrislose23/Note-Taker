@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "f058a9d3-c40e-414f-9291-6ac13cd9143e",
+    "title": "1",
+    "text": "note 1"
+  },
+  {
+    "id": "78092c7a-cf24-4145-b77a-7feb3b3c7c20",
+    "title": "2",
+    "text": "note 2"
+  }
 ]
